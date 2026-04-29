@@ -1,1 +1,1 @@
-# -ai-alternatives
+# ai-alternatives
